@@ -1,4 +1,20 @@
 ```mermaid
+%% Configuramos los estilos
+---
+mindmap:
+  root:
+    fill: white
+    stroke: black
+  defaultNode:
+    fill: #f9f7d9  %% Amarillo pastel
+    stroke: black
+  level1:
+    fill: #fce4d6  %% Naranja pastel
+    stroke: black
+  level2:
+    fill: #d9f7f9  %% Azul pastel
+    stroke: black
+---
 mindmap
   root((Examen TIC))
     Multimedia
